@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "usuarios.Repositories/1.0.0": {
+        "dependencies": {
+          "usuarios.Models": "1.0.0"
+        },
+        "runtime": {
+          "usuarios.Repositories.dll": {}
+        }
+      },
+      "usuarios.Models/1.0.0": {
+        "runtime": {
+          "usuarios.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "usuarios.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "usuarios.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\bin\Debug\net5.0\usuarios.Repositories.deps.json
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\bin\Debug\net5.0\usuarios.Repositories.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\bin\Debug\net5.0\ref\usuarios.Repositories.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\bin\Debug\net5.0\usuarios.Repositories.pdb
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\obj\Debug\net5.0\usuarios.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\obj\Debug\net5.0\usuarios.Repositories.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\obj\Debug\net5.0\usuarios.Repositories.AssemblyInfo.cs
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\obj\Debug\net5.0\usuarios.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\obj\Debug\net5.0\usuarios.Repositories.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\obj\Debug\net5.0\ref\usuarios.Repositories.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\obj\Debug\net5.0\usuarios.Repositories.pdb
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\bin\Debug\net5.0\usuarios.Models.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\bin\Debug\net5.0\usuarios.Models.pdb
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\obj\Debug\net5.0\usuarios.Repositories.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\Usuarios\usuarios.Repositories\obj\Debug\net5.0\usuarios.Repositories.csproj.CopyComplete

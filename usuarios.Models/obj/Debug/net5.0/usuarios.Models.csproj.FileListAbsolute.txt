@@ -1,0 +1,11 @@
+C:\Users\johan\source\repos\Usuarios\usuarios.Models\bin\Debug\net5.0\usuarios.Models.deps.json
+C:\Users\johan\source\repos\Usuarios\usuarios.Models\bin\Debug\net5.0\usuarios.Models.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.Models\bin\Debug\net5.0\ref\usuarios.Models.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.Models\bin\Debug\net5.0\usuarios.Models.pdb
+C:\Users\johan\source\repos\Usuarios\usuarios.Models\obj\Debug\net5.0\usuarios.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\Usuarios\usuarios.Models\obj\Debug\net5.0\usuarios.Models.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\Usuarios\usuarios.Models\obj\Debug\net5.0\usuarios.Models.AssemblyInfo.cs
+C:\Users\johan\source\repos\Usuarios\usuarios.Models\obj\Debug\net5.0\usuarios.Models.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Usuarios\usuarios.Models\obj\Debug\net5.0\usuarios.Models.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.Models\obj\Debug\net5.0\ref\usuarios.Models.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.Models\obj\Debug\net5.0\usuarios.Models.pdb

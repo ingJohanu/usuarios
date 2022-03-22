@@ -1,0 +1,17 @@
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\bin\Debug\net5.0\usuarios.UnitOfWork.deps.json
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\bin\Debug\net5.0\usuarios.UnitOfWork.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\bin\Debug\net5.0\ref\usuarios.UnitOfWork.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\bin\Debug\net5.0\usuarios.UnitOfWork.pdb
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\bin\Debug\net5.0\usuarios.Models.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\bin\Debug\net5.0\usuarios.Repositories.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\bin\Debug\net5.0\usuarios.Repositories.pdb
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\bin\Debug\net5.0\usuarios.Models.pdb
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\obj\Debug\net5.0\usuarios.UnitOfWork.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\obj\Debug\net5.0\usuarios.UnitOfWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\obj\Debug\net5.0\usuarios.UnitOfWork.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\obj\Debug\net5.0\usuarios.UnitOfWork.AssemblyInfo.cs
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\obj\Debug\net5.0\usuarios.UnitOfWork.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\obj\Debug\net5.0\usuarios.UnitOfWork.csproj.CopyComplete
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\obj\Debug\net5.0\usuarios.UnitOfWork.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\obj\Debug\net5.0\ref\usuarios.UnitOfWork.dll
+C:\Users\johan\source\repos\Usuarios\usuarios.UnitOfWork\obj\Debug\net5.0\usuarios.UnitOfWork.pdb
